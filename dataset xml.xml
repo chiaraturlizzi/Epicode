@@ -1,0 +1,105 @@
+<!-- catalogo cd disponibili in un musicstore classificati in base al genere musicale -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<musicstore>
+   <album genre="pop">
+   <title_cd>lemonade</title_cd>
+   <track1>
+   	<name>freedom</name>
+   	<lenght>2:57</lenght>
+   </track1>
+  <author>Beyonce</author>
+<debute_year>2016</debute_year>
+<price>16.00</price>
+</album>
+  <album genre="rock">
+<title_cd>nevermind</title_cd>
+<track1>
+   	<name>in bloom</name>
+   	<lenght>3:02</lenght>
+   </track1>
+	<author>Nirvana</author>
+	<debute_year>1991</debute_year>
+	<price>14.90</price>
+</album>
+<album genre="raggae">
+	<title_cd>legend</title_cd>
+	<track1>
+   	<name>is this love</name>
+   	<lenght>3:52</lenght>
+   </track1>
+	<author>Bob Marley</author>
+	<debute_year>1984</debute_year>
+	<price>17.90</price>
+</album>
+<album genre="jazz">
+	<title_cd>ella and louis</title_cd>
+	<track1>
+   	<name>don't be that way</name>
+   	<lenght>4:59</lenght>
+   </track1>
+	<author>Ella Fitzgerald</author>
+	<debute_year>1956</debute_year>
+	<price>21.99</price>
+</album>
+<album genre="blues">
+	<title_cd>at least</title_cd>
+	<track1>
+   	<name>trust in me</name>
+   	<lenght>3:01</lenght>
+   </track1>
+	<author>Etta James</author>
+	<debute_year>1960</debute_year>
+	<price>25.00</price>
+</album>
+<album genre="hip hop">
+	<title_cd>the chronic</title_cd>
+	<track1>
+   	<name>letme ride</name>
+   	<lenght>4:21</lenght>
+   </track1>
+	<author>Dr Dre</author>
+	<debute_year>1992</debute_year>
+	<price>14.90</price>
+</album>
+<album genre="country">
+	<title_cd>growin up</title_cd>
+	<track1>
+   	<name>doin this</name>
+   	<lenght>4:14</lenght>
+   </track1>
+	<author>Luke Combs</author>
+	<debute_year>2022</debute_year>
+	<price>19.90</price>
+</album>
+<album genre="soul music">
+	<title_cd>talking book</title_cd>
+	<track1>
+   	<name>big brother</name>
+   	<lenght>3:35</lenght>
+   </track1>
+	<author>Stevie Wonder</author>
+	<debute_year>1972</debute_year>
+	<price>23.99</price>
+</album>
+<album genre="funk">
+	<title_cd>kismet</title_cd>
+	<track1>
+   	<name>reality</name>
+   	<lenght>4:22</lenght>
+   </track1>
+	<author>Adriana Evans</author>
+	<debute_year>2005</debute_year>
+	<price>15.00</price>
+</album>
+<album genre="folk">
+	<title_cd>Pink Moon</title_cd>
+	<track1>
+   	<name>road</name>
+   	<lenght>2:02</lenght>
+   </track1>
+	<author>Nick Drake</author>
+	<debute_year>1972</debute_year>
+	<price>13.99</price>
+</album>
+</musicstore>
