@@ -1,0 +1,103 @@
+{
+	"commento":"festival di sanremo 2023: date, conduttori, cantanti concorrenti",
+
+"date":"7_febbraio_2022",
+"luogo":"ariston_di_sanremo",
+"conduttore":"Amadeus",
+"artisti_in_gara":[{
+	"nome":"articolo 31",
+	"eta_carriera":25,
+	"canzone":"un bel viaggio",
+	"genere":"hip hop"
+}, {
+    "nome":"ariete",
+    "eta_carriera":3,
+    "canzone":"mare di guai",
+    "genere":"indie pop"
+}, {
+    "nome":"cugini di campagna",
+    "eta_carriera":52,
+    "canzone":"lettera 22",
+    "genere":"musica leggera"
+}, {
+    "nome":"levante",
+     "eta_carriera":13,
+     "canzone":"vivo",
+     "genere":"pop rock"
+}, {
+	"nome":"coma cose", 
+	"eta_carriera":6,
+	"canzone":"l'addio",
+	"genere":"indie pop"
+}, {
+    "nome":"lda", 
+    "eta_carriera":1,
+    "canzone":"se poi domani",
+    "genere":"indie"
+}, {
+    "nome":"rosa chemical",
+    "eta_carriera":7,
+    "canzone":"made in italy",
+    "genere":"trap"
+}, {
+	"nome":"ultimo",
+	"eta_carriera":6,
+	"canzone":"alba",
+	"genere":"pop"
+}, {
+    "nome":"tananai",
+    "eta_carriera":8,
+    "canzone":"tango",
+    "genere":"pop"
+}, {
+    "nome":"madame",
+    "eta_carriera":4,
+    "canzone":"il bene nel male",
+    "genere":"pop rap"
+}, {
+	"nome":"giorgia",
+	"eta_carriera":30,
+	"canzone":"parole dette male",
+	"genere":"pop"
+}, {
+    "nome":"mr rain",
+    "eta_carriera":11,
+    "canzone":"supereroi",
+    "genere":"pop rap"
+}, {
+	"nome":"elodie",
+	"eta_carriera":7,
+	"canzone":"due",
+	"genere":"pop"
+}, {
+    "nome":"gianluca grignani",
+    "eta_carriera":28,
+    "canzone":"quando ti manca il fiato",
+    "genere":"pop"
+}, { 
+    "nome":"marco mengoni",
+    "eta_carriera":13,
+    "canzone":"due vite",
+    "genere":"pop"
+}, { 
+    "nome":"anna oxa",
+    "eta_carriera":42,
+    "canzone":"sali",
+    "genere":"pop"
+}, {
+    "nome":"lazza",
+    "eta_carriera":13,
+    "canzone":"cenere",
+    "genere":"rap"
+}, {
+    "nome":"mara sattei",
+    "eta_carriera":13,
+    "canzone":"duemilaminuti",
+    "genere":"pop"
+}, {
+    "nome":"moda",
+    "eta_carriera":20,
+    "canzone":"lasciami",
+    "genere":"pop rock"
+}]
+}
