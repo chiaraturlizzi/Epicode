@@ -1,6 +1,5 @@
-<!-- catalogo cd disponibili in un musicstore classificati in base al genere musicale -->
-
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- catalogo cd disponibili in un musicstore classificati in base al genere musicale -->
 <musicstore>
    <album genre="pop">
    <title_cd>lemonade</title_cd>
