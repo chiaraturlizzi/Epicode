@@ -1,8 +1,7 @@
 {
-"commento":"festival di sanremo 2023: date, conduttori, cantanti concorrenti",
-
+"description": "Analisi sul prossimo Festival di Sanremo 2023: date, conduttori, artisti in gara",
 "date":"dal 7 al 11 febbraio 2023",
-"luogo":"ariston di sanremo",
+"luogo":"Ariston di Sanremo",
 "conduttore":"Amadeus",
 "artisti_in_gara":[{
 	"nome":"articolo 31",
